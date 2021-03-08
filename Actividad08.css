@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(216, 211, 204);
+}
+
+img{
+    width:40%;
+    /*width: 180px*/
+}
+
+
+h1{
+    color: blue;
+    font-size: 35px;
+    font-style:italic;      /*Estilo de la letra*/
+    font-family: "Times New Roman", serif;
+    text-align: center;     /*Centrar el texto*/
+    text-decoration: underline;     /*Subrayar por debajo del texto*/
+    margin-top: 2px;
+}
+
+#mapa{
+    width:72%;
+}
+
+#tiempo{
+    width:70%;
+    padding-left:220px;
+}
+
+
+h3{
+    font-family: serif;
+    text-align: center;
+}
+
+a{
+   
+}
+
+/* Links no visitados */
+a:link {
+    color: black;
+}
+/*Links que se van a visitar*/
+a:active {
+    color: green;
+    font-size: 20px;
+}
+
